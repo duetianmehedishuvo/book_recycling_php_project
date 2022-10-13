@@ -1,5 +1,9 @@
-# book_recycling_php_project
-This is not professional project. but here I made an admin panel and a user panel. also here use ALL crud operation.
+# book Recycling 
+This is not professional project.This is my university lab project but here I made an admin panel and a user panel after final lab evaluation. also here use ALL crud operation.
+
+### Course Name: Internet Programming
+### University: Dhaka University of Engineering & Technology.
+### Our Team Member me(Mehedi Hasan Shuvo) , Arafat Hossain and Twhidul Islam. 
 
 Please Import database at first then try run. Thanks. 
 
